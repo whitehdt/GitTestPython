@@ -2,6 +2,3 @@ grind(beans)
 head(water)
 extract(coffee)
 
-heat(milk)
-pour()
-# new
