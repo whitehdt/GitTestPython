@@ -9,3 +9,8 @@ Created on Sat Aug 25 17:11:37 2018
 ### Python Git Test File ###
 
 print(range(10))
+
+def exp(n):
+  ans = n**2
+  return ans
+exp(2)
