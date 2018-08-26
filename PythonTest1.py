@@ -13,4 +13,9 @@ print(range(10))
 def exp(n):
   ans = n**2
   return ans
-exp(2)
+print(exp(2))
+
+def double(n):
+    ans = n*2
+    return ans
+print(double(5))
