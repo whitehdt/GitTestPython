@@ -19,3 +19,8 @@ def double(n):
     ans = n*2
     return ans
 print(double(5))
+
+def triple(n):
+    ans = n*3
+    return ans
+print(triple(5))
